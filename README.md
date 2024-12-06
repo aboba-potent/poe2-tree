@@ -1,4 +1,4 @@
-# Path of Exile 2 - Skill Tree
+# Path of Exile 2 - Skill Tree (full)
 
 This is a scuffed version of the Path of Exile 2 skill tree with data extracted from videos and screenshots. It's a community project so feel free to contribute.
 
